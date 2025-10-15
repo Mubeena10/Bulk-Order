@@ -1,0 +1,9 @@
+com\digitiumitservices\boc\delegate\OrderProcessorDelegate.class
+com\digitiumitservices\boc\ProcessConstants.class
+com\digitiumitservices\boc\entity\Order.class
+com\digitiumitservices\boc\LoggerDelegate.class
+com\digitiumitservices\boc\repo\OrderRepository.class
+com\digitiumitservices\boc\delegate\OrderGeneratorDelegate.class
+com\digitiumitservices\boc\CamundaApplication.class
+com\digitiumitservices\boc\delegate\LogFailedOrderDelegate.class
+com\digitiumitservices\boc\repo\FailedOrderRepository.class

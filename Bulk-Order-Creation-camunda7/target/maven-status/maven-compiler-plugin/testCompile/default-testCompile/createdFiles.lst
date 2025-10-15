@@ -1,0 +1,3 @@
+com\digitiumitservices\boc\ProcessScenarioTest.class
+com\digitiumitservices\boc\InMemoryH2Test.class
+com\digitiumitservices\boc\ProcessUnitTest.class
