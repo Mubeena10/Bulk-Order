@@ -30,6 +30,7 @@ public class ValidateAndSaveOrderDelegate implements JavaDelegate {
             successOrders.add(order);
         } else {
             System.out.println("❌ Failed");
+            System.out.println("Added for git Test ");
             failedOrders.add(order);
         }
 
